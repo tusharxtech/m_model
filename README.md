@@ -94,10 +94,7 @@ malaria_model.evaluate(test_dataset)
 
 ---
 
-## 🔍 Predictions Visualization
 
-* Displays predictions vs actual labels
-* Helps visually inspect model performance
 
 ---
 
@@ -118,11 +115,10 @@ malaria_model.save("malaria_model.keras")
 
 ## 🧪 Future Improvements
 
-* Use Transfer Learning (ResNet, EfficientNet)
+* Use Transfer Learning 
 * Hyperparameter tuning
-* Add Grad-CAM for explainability
-* Deploy via FastAPI / Flask
-* Convert to TensorFlow Lite (Mobile deployment)
+
+
 
 ---
 
